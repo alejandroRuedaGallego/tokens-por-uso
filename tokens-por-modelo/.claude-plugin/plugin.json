@@ -1,0 +1,7 @@
+{
+  "name": "tokens-por-modelo",
+  "version": "0.1.0",
+  "description": "Cuenta los tokens de cada modelo (entrada, salida y caché, subagentes incluidos) y los muestra en un panel y encima del prompt",
+  "types": "./types/index.d.ts",
+  "license": "MIT"
+}
